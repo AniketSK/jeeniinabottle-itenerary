@@ -1,0 +1,17 @@
+{
+  "name": "jeenie-wedding",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "require-text": "^0.0.1",
+    "tsv": "^0.2.0",
+    "tsv-json": "^2.0.0"
+  }
+}
