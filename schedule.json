@@ -1,0 +1,252 @@
+[
+    {
+        "Venue": "Dining Areas of where you are staying",
+        "start_time": "07:30",
+        "end_time": "09:30",
+        "event_name": "Break your fasts! ",
+        "event_description": "",
+        "border": "1px transparent",
+        "backgroundColor": "transparent",
+        "id": "c46fb76f-50e9-4298-ad5f-751845830509"
+    },
+    {
+        "Venue": "Baynest Gazebo",
+        "start_time": "10:00",
+        "end_time": "12:00",
+        "event_name": "Mehendi starts for Nitya and Guests at Baynest ",
+        "event_description": "",
+        "border": "1px transparent",
+        "backgroundColor": "transparent",
+        "id": "f4556522-e054-45b5-b065-45e6221c1273"
+    },
+    {
+        "Venue": "Baynest's kitchen area",
+        "start_time": "12:00",
+        "end_time": "13:30",
+        "event_name": "Lunch is served!",
+        "event_description": "",
+        "border": "1px transparent",
+        "backgroundColor": "transparent",
+        "id": "9656b3d2-35d2-41a3-a2bc-2a8fb885c4dc"
+    },
+    {
+        "Venue": "Baynest",
+        "start_time": "14:00",
+        "end_time": "18:00",
+        "event_name": "Mehendi, Music and Games ",
+        "event_description": "The ceremony brings together the cooling properties of Henna and the mindful intricate patterns of Mandalas and natural motifs. The ceremony is a way to calming the wedding nerves. Ours aims to also bring everyone together through music and games! ",
+        "border": "1px transparent",
+        "backgroundColor": "transparent",
+        "id": "605b1026-8e51-4553-84b7-f061e2b4cd1b"
+    },
+    {
+        "Venue": "Baynest's kitchen area",
+        "start_time": "16:00",
+        "end_time": "17:00",
+        "event_name": "Old School Goli Soda and Local Snacks! ",
+        "event_description": "",
+        "border": "1px transparent",
+        "backgroundColor": "transparent",
+        "id": "5459b504-acb5-4851-8df9-17cd60825fbe"
+    },
+    {
+        "Venue": "Beach",
+        "start_time": "18:15",
+        "end_time": "18:45",
+        "event_name": "Sunset Tea and Coffee",
+        "event_description": "Get ready and pop back out for the Sunset on the beach! ",
+        "border": "1px transparent",
+        "backgroundColor": "transparent",
+        "id": "64e3b3f0-4354-40ab-a14a-a4c5bc87a84b"
+    },
+    {
+        "Venue": "Stage Area",
+        "start_time": "19:00",
+        "end_time": "20:30",
+        "event_name": "Sangeet Begins",
+        "event_description": "Let there be DANCE!",
+        "border": "1px transparent",
+        "backgroundColor": "transparent",
+        "id": "47a096a3-2428-4039-b00a-d83457d2c1f2"
+    },
+    {
+        "Venue": "Follow the smells and sounds ",
+        "start_time": "20:30",
+        "end_time": "22:00",
+        "event_name": "Dining and Dancing",
+        "event_description": "The dance floor is open and the food is served. Nourish yourselves in all ways! ",
+        "border": "1px transparent",
+        "backgroundColor": "transparent",
+        "id": "990ed366-91a9-40bd-9dbf-162e141e8630"
+    },
+    {
+        "Venue": "Baynest Gate ",
+        "start_time": "",
+        "end_time": "22:00",
+        "event_name": "1 Bus to UVA Meridien",
+        "event_description": "Call it a day for an early start ",
+        "border": "1px transparent",
+        "backgroundColor": "transparent",
+        "id": "363fd914-f2a8-4043-98c5-15c636843f2f"
+    },
+    {
+        "Venue": "Baynest Gate ",
+        "start_time": "",
+        "end_time": "23:00",
+        "event_name": "2 Buses back to UVA Meridien",
+        "event_description": "Close up shop for Day 1. Prepare for Day 2!",
+        "border": "1px transparent",
+        "backgroundColor": "transparent",
+        "id": "60b61101-cafe-4a49-8c95-3e53db613a77"
+    },
+    {
+        "Venue": "Beach House ",
+        "start_time": "7:00",
+        "end_time": "7:30",
+        "event_name": "Welcome the Groom (Edra Ghalsani) ",
+        "event_description": "Welcoming the Groom and his family with an opportunity to check themselves out in hand-held mirrors and adorn themselves with haldi-kumkum and flowers. ",
+        "border": "1px transparent",
+        "backgroundColor": "transparent",
+        "id": "01671f74-9539-4bd7-8394-802859d7a00e"
+    },
+    {
+        "Venue": "Beach House Mantap",
+        "start_time": "7:30",
+        "end_time": "8:00",
+        "event_name": "Exchange of gifts (Phool Mudi Sado)",
+        "event_description": "The couple will be welcomed and given gifts by both sets of parents. The Bride will also be prepared for the marriage by the women in her family. ",
+        "border": "1px transparent",
+        "backgroundColor": "transparent",
+        "id": "0995fa61-378e-4d4e-97be-12b2d359f82a"
+    },
+    {
+        "Venue": "",
+        "start_time": "8:00",
+        "end_time": "9:00",
+        "event_name": "Breakfast ",
+        "event_description": "Fuel up for the day at your accomodation or the beach!",
+        "border": "1px transparent",
+        "backgroundColor": "transparent",
+        "id": "36f8c238-19dc-4c4a-bb37-dc1606f7be3d"
+    },
+    {
+        "Venue": "Beach House Mantap",
+        "start_time": "8:30",
+        "end_time": "9:30",
+        "event_name": "Sankalp, Ganpati Pooja and Groom's preparation",
+        "event_description": "The Groom will be prepared by the women in his family after a pooja performed by him and his parents. ",
+        "border": "1px transparent",
+        "backgroundColor": "transparent",
+        "id": "0d61c6b3-8abe-419a-a329-a2c39202578a"
+    },
+    {
+        "Venue": "Please don't go too far ",
+        "start_time": "9:30",
+        "end_time": "10:00",
+        "event_name": "Break time",
+        "event_description": "A small break for the couple to get changed and a symbolical break between two days.  Feel free to visit the beach, give advice or checkout all the rituals :) ",
+        "border": "1px transparent",
+        "backgroundColor": "transparent",
+        "id": "dba09baf-4e17-4f68-bdbb-b30d14e4de93"
+    },
+    {
+        "Venue": "Back to the house and the mantap ",
+        "start_time": "10:30",
+        "end_time": "11:00",
+        "event_name": "Madhupark Pooja ",
+        "event_description": "The Groom and his family are welcomed again as the final rituals get nearer. AKA BARAAT!  After, the groom will be given more gifts (His luck is just great!) ",
+        "border": "1px transparent",
+        "backgroundColor": "transparent",
+        "id": "35f61039-8edf-45e8-88c6-fa768377a078"
+    },
+    {
+        "Venue": "Still the Beach house ",
+        "start_time": "11:15",
+        "end_time": "11:40",
+        "event_name": "Antarpath",
+        "event_description": "The Bride enters the mantap to exchange garlands and vows",
+        "border": "1px transparent",
+        "backgroundColor": "transparent",
+        "id": "694ac135-a0fe-44e4-a335-7e9ed087b18e"
+    },
+    {
+        "Venue": "You have to know by now! ",
+        "start_time": "11:49",
+        "end_time": "12:00",
+        "event_name": "Muhurtham",
+        "event_description": "The couple will accept each other as partners and the family will proceed to become one.",
+        "border": "1px transparent",
+        "backgroundColor": "transparent",
+        "id": "f67014e1-ee43-434c-9f44-c592cd2b9f72"
+    },
+    {
+        "Venue": "",
+        "start_time": "12:00",
+        "end_time": "12:30",
+        "event_name": "Laaya Homa and Saptapadi ",
+        "event_description": "The worshipping Agni (Fire) as a witness for the seven steps, each step representing a vow.  ",
+        "border": "1px transparent",
+        "backgroundColor": "transparent",
+        "id": "94b9f02a-77e5-4f45-92b2-c888228a6b8c"
+    },
+    {
+        "Venue": "Mantap! ",
+        "start_time": "12:30",
+        "end_time": "12:45",
+        "event_name": "Vokkoli ",
+        "event_description": "Wedding Games before the completion",
+        "border": "1px transparent",
+        "backgroundColor": "transparent",
+        "id": "965c012c-6668-481e-88bd-9f28b8c02886"
+    },
+    {
+        "Venue": "Be around to bless and wish us! ",
+        "start_time": "12:45",
+        "end_time": "13:00",
+        "event_name": "Vayan Pooja, Arati and Ashirwad",
+        "event_description": "The completion of the wedding; receiving blessings and the Bride's first pooja as a married woman. ",
+        "border": "1px transparent",
+        "backgroundColor": "transparent",
+        "id": "5f137988-e71b-4372-8621-f0dc674dffcf"
+    },
+    {
+        "Venue": "Dining Area ",
+        "start_time": "13:00",
+        "end_time": "2:25",
+        "event_name": "Lunch ",
+        "event_description": "Food is served on a Banana Leaf ",
+        "border": "1px transparent",
+        "backgroundColor": "transparent",
+        "id": "90260a58-4e68-4904-af52-f13b1694c7f4"
+    },
+    {
+        "Venue": "",
+        "start_time": "14:30",
+        "end_time": "",
+        "event_name": "First Buses back to the rooms",
+        "event_description": "Call it before the post-meal snoozies hit!",
+        "border": "1px transparent",
+        "backgroundColor": "transparent",
+        "id": "b97b81f4-9f4d-4192-9b68-d6b3db6c950c"
+    },
+    {
+        "Venue": "",
+        "start_time": "15:30",
+        "end_time": "",
+        "event_name": "Second Buses back to the rooms ",
+        "event_description": "Don't forget to say bye! ",
+        "border": "1px transparent",
+        "backgroundColor": "transparent",
+        "id": "d3ac7549-a5c9-431c-a7e1-d432ea1a9fb2"
+    },
+    {
+        "Venue": "Baynest Dining Area",
+        "start_time": "19:00",
+        "end_time": "21:00",
+        "event_name": "Dinner at Baynest ",
+        "event_description": "",
+        "border": "1px transparent",
+        "backgroundColor": "transparent",
+        "id": "5826a2f5-c50f-4529-b5ff-953a2a0e3fcc"
+    }
+]
