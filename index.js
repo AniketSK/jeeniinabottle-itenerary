@@ -1,3 +1,5 @@
+const { v4: uuidv4 } = require('uuid');
+
 function tsvJSON(tsv) {
     const lines = tsv.split("\n");
     const result = [];
@@ -48,6 +50,12 @@ function standardizeTimes(timeText) {
         return timeText
     }
 }
+function addAddtionalProperties(elem) {
+    elem["border"] = "1px transparent"
+    elem["backgroundColor"] = "transparent"
+    elem["id"] = uuidv4()
+    return elem
+ }
 
 function fixFormatting(i) {
     return i.map(elem => {
@@ -61,13 +69,22 @@ function fixFormatting(i) {
         ]
         replacements.forEach(r => headerRename(r[0], r[1], elem, r[2]))
 
-        return elem
+
+        return addAddtionalProperties(elem)
     }
     )
 }
 
-const { readFileSync } = require('fs');
+const { readFileSync, writeFileSync } = require('fs');
 const tsvFileData = readFileSync('./j.tsv');
 const jsonRes = tsvJSON(tsvFileData.toString());
 
-console.log(JSON.stringify(fixFormatting(jsonRes)));
+// Remove empty entries
+let result = fixFormatting(jsonRes).filter( i => i["event_name"] != "" )
+// null, 4 formats it with 4 spaces, remove for minified
+let resultString = JSON.stringify(result, null, 4)
+console.log(resultString)
+// console.log("Original size", result.length)
+// console.log("Filtered size", result.filter( i => i["event_name"] != "" ).length)
+// console.log(result.filter( i => i["event_name"] == "" ))
+writeFileSync('schedule.json', resultString, 'utf8');

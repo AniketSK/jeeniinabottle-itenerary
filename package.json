@@ -12,6 +12,7 @@
   "dependencies": {
     "require-text": "^0.0.1",
     "tsv": "^0.2.0",
-    "tsv-json": "^2.0.0"
+    "tsv-json": "^2.0.0",
+    "uuid": "^9.0.1"
   }
 }
